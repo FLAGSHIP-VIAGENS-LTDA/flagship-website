@@ -514,7 +514,7 @@ export default function Home() {
             </div>
             <div className="footer__col">
               <p className="footer__h">Endereço</p>
-              <p className="footer__body">São Paulo — SP<br />Brasil</p>
+              <p className="footer__body">Av. Pereira Barreto, 1479, Sala 2108<br />Baeta Neves · São Bernardo do Campo — SP<br />CEP 09.751-000</p>
               <p className="footer__body">Atendimento de segunda a sábado</p>
             </div>
           </div>
