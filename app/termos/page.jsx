@@ -75,7 +75,7 @@ export default function Termos() {
 
           <section>
             <h2>11. Contato</h2>
-            <p>Dúvidas sobre estes Termos podem ser enviadas para <a href="mailto:contato@flagshipviagens.com.br">contato@flagshipviagens.com.br</a>.</p>
+            <p>Dúvidas sobre estes Termos podem ser enviadas para <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>.</p>
           </section>
         </div>
       </main>

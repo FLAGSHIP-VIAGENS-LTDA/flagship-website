@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 import Link from 'next/link';
 
 const WA_LINK =
-  'https://wa.me/5511999999999?text=Ol%C3%A1%2C%20quero%20planejar%20uma%20viagem%20com%20a%20Flagship.';
+  'https://wa.me/5547991906687?text=Ol%C3%A1%2C%20quero%20planejar%20uma%20viagem%20com%20a%20Flagship.';
 
 const WA_ICON = (
   <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
@@ -485,8 +485,8 @@ export default function Home() {
                 </svg>
                 Falar pelo WhatsApp
               </a>
-              <a className="btn btn--ghost btn--lg btn--ghost-light" href="mailto:contato@flagshipviagens.com.br">
-                contato@flagshipviagens.com.br
+              <a className="btn btn--ghost btn--lg btn--ghost-light" href="mailto:contato@flagshipviagens.com">
+                contato@flagshipviagens.com
               </a>
             </div>
           </div>
@@ -508,8 +508,8 @@ export default function Home() {
             </div>
             <div className="footer__col">
               <p className="footer__h">Contato</p>
-              <a href="https://wa.me/5511999999999" target="_blank" rel="noopener">WhatsApp</a>
-              <a href="mailto:contato@flagshipviagens.com.br">contato@flagshipviagens.com.br</a>
+              <a href="https://wa.me/5547991906687" target="_blank" rel="noopener">WhatsApp</a>
+              <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>
               <a href="#">Instagram</a>
             </div>
             <div className="footer__col">

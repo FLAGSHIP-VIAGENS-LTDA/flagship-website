@@ -62,7 +62,7 @@ export default function Privacidade() {
 
           <section>
             <h2>7. Seus direitos</h2>
-            <p>Você pode, a qualquer momento: confirmar a existência de tratamento; acessar seus dados; corrigi-los; solicitar anonimização, bloqueio ou eliminação; portabilidade; informações sobre compartilhamento; e revogação do consentimento. Para exercer qualquer direito, envie uma solicitação para <a href="mailto:contato@flagshipviagens.com.br">contato@flagshipviagens.com.br</a>.</p>
+            <p>Você pode, a qualquer momento: confirmar a existência de tratamento; acessar seus dados; corrigi-los; solicitar anonimização, bloqueio ou eliminação; portabilidade; informações sobre compartilhamento; e revogação do consentimento. Para exercer qualquer direito, envie uma solicitação para <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>.</p>
           </section>
 
           <section>
@@ -77,7 +77,7 @@ export default function Privacidade() {
 
           <section>
             <h2>10. Encarregado e Contato</h2>
-            <p>Para qualquer questão relacionada à privacidade dos seus dados, entre em contato com nosso Encarregado de Proteção de Dados pelo e-mail <a href="mailto:contato@flagshipviagens.com.br">contato@flagshipviagens.com.br</a>.</p>
+            <p>Para qualquer questão relacionada à privacidade dos seus dados, entre em contato com nosso Encarregado de Proteção de Dados pelo e-mail <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>.</p>
           </section>
         </div>
       </main>
