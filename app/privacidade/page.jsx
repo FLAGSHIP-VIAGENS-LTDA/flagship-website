@@ -25,7 +25,7 @@ export default function Privacidade() {
 
           <section>
             <h2>1. Quem somos</h2>
-            <p>A Flagship Viagens é uma agência de viagens boutique, controladora dos dados pessoais coletados por meio deste site, do WhatsApp oficial e do e-mail de atendimento. Esta política descreve como tratamos seus dados de acordo com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 — LGPD).</p>
+            <p>A <strong>Flagship Viagens Ltda</strong>, inscrita no CNPJ sob o nº 55.835.485/0001-25, com sede na Av. Pereira Barreto, 1479, Sala 2108, Baeta Neves, São Bernardo do Campo — SP, CEP 09.751-000, e-mail <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>, é a controladora dos dados pessoais coletados por meio deste site, do WhatsApp oficial e do e-mail de atendimento. Esta política descreve como tratamos seus dados de acordo com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 — LGPD).</p>
           </section>
 
           <section>
@@ -77,7 +77,8 @@ export default function Privacidade() {
 
           <section>
             <h2>10. Encarregado e Contato</h2>
-            <p>Para qualquer questão relacionada à privacidade dos seus dados, entre em contato com nosso Encarregado de Proteção de Dados pelo e-mail <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>.</p>
+            <p>Para qualquer questão relacionada à privacidade dos seus dados, entre em contato com nosso Encarregado de Proteção de Dados pelo e-mail <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a> ou pelo WhatsApp <a href="https://wa.me/5547991906687">+55 47 99190-6687</a>.</p>
+            <p><strong>Flagship Viagens Ltda</strong> · CNPJ 55.835.485/0001-25<br />Av. Pereira Barreto, 1479, Sala 2108 — Baeta Neves · São Bernardo do Campo — SP · CEP 09.751-000</p>
           </section>
         </div>
       </main>

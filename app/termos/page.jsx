@@ -30,7 +30,7 @@ export default function Termos() {
 
           <section>
             <h2>2. Sobre a Flagship Viagens</h2>
-            <p>A Flagship Viagens é uma agência de viagens boutique, especializada no planejamento de viagens sob medida e em serviços de gestão de milhas e concierge para clientes private por meio do produto Private 360. Atuamos como intermediários entre o cliente e fornecedores de serviços de viagem, como companhias aéreas, redes hoteleiras, operadoras de cruzeiros e prestadores locais.</p>
+            <p>A <strong>Flagship Viagens Ltda</strong>, inscrita no CNPJ sob o nº 55.835.485/0001-25, com sede na Av. Pereira Barreto, 1479, Sala 2108, Baeta Neves, São Bernardo do Campo — SP, CEP 09.751-000, é uma agência de viagens boutique especializada no planejamento de roteiros sob medida e em serviços de gestão de milhas e concierge para clientes private, por meio do produto Private 360. Atuamos como intermediários entre o cliente e fornecedores de serviços de viagem, como companhias aéreas, redes hoteleiras, operadoras de cruzeiros e prestadores locais.</p>
           </section>
 
           <section>
@@ -75,7 +75,8 @@ export default function Termos() {
 
           <section>
             <h2>11. Contato</h2>
-            <p>Dúvidas sobre estes Termos podem ser enviadas para <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>.</p>
+            <p>Dúvidas sobre estes Termos podem ser enviadas para <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a> ou pelo WhatsApp <a href="https://wa.me/5547991906687">+55 47 99190-6687</a>.</p>
+            <p><strong>Flagship Viagens Ltda</strong> · CNPJ 55.835.485/0001-25<br />Av. Pereira Barreto, 1479, Sala 2108 — Baeta Neves · São Bernardo do Campo — SP · CEP 09.751-000</p>
           </section>
         </div>
       </main>

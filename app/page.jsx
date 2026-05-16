@@ -510,7 +510,6 @@ export default function Home() {
               <p className="footer__h">Contato</p>
               <a href="https://wa.me/5547991906687" target="_blank" rel="noopener">WhatsApp</a>
               <a href="mailto:contato@flagshipviagens.com">contato@flagshipviagens.com</a>
-              <a href="#">Instagram</a>
             </div>
             <div className="footer__col">
               <p className="footer__h">Endereço</p>
@@ -519,7 +518,7 @@ export default function Home() {
             </div>
           </div>
           <div className="container footer__legal">
-            <span>© 2026 Flagship Viagens. Todos os direitos reservados.</span>
+            <span>© 2026 Flagship Viagens Ltda · CNPJ 55.835.485/0001-25 · Todos os direitos reservados.</span>
             <span className="footer__legal-right">
               <Link href="/termos">Termos</Link>
               <Link href="/privacidade">Privacidade</Link>
