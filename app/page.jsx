@@ -323,10 +323,7 @@ export default function Home() {
               <p className="eyebrow eyebrow--gold" data-reveal>Para clientes private</p>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img className="p360__logo" src="/p360-logo-transparent.png" alt="P360" data-reveal data-reveal-delay="40" />
-              <h2 className="display display--gold display--small" data-reveal data-reveal-delay="60">
-                Private <em>360</em>.
-              </h2>
-              <p className="p360__lede" data-reveal data-reveal-delay="120">
+              <p className="p360__lede" data-reveal data-reveal-delay="60">
                 Um serviço de gestão de viagens completo, montado para quem viaja muito, gasta no cartão e quer que cada milha vire um upgrade — sem precisar pensar nisso.
               </p>
             </div>
