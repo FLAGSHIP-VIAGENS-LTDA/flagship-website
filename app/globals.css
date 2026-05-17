@@ -468,7 +468,6 @@ button { font: inherit; cursor: pointer; }
   width: clamp(180px, 22vw, 280px);
   height: auto;
   margin: 18px 0 4px;
-  transform: translateX(-26.7%);
 }
 .p360 {
   background: var(--dark);
